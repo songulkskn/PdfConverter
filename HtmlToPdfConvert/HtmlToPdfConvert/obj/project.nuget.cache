@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIquLb3KRV9Dyoaw6UG7pURgeRpLiojHuk+/ZXLbo5Oh+NZa/L2BUlBqEB29UXWtW40Y5/ZSPFFpwlnZOTpirA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\songul\\source\\repos\\HtmlToPdfConvert\\HtmlToPdfConvert\\HtmlToPdfConvert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\songul\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\select.htmltopdf.netcore\\20.1.0\\select.htmltopdf.netcore.20.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\system.security.principal.windows\\4.5.1\\system.security.principal.windows.4.5.1.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\songul\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+
+<button id="btnPdf">PDF</button>
+
+<div id="pdfContainer">
+    <h1>Student List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Student Id</th>
+                <th>Name</th>
+                <th>Roll</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>songül</td>
+                <td>1001</td>
+            </tr> 
+            <tr>
+                <td>1</td>
+                <td>songül</td>
+                <td>1001</td>
+            </tr> 
+            <tr>
+                <td>1</td>
+                <td>songül</td>
+                <td>1001</td>
+            </tr> 
+            <tr>
+                <td>1</td>
+                <td>songül</td>
+                <td>1001</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<script>
+
+
+    $("#btnPdf").click(function () {
+        var sHtml = $("#pdfContainer").html();
+        sHtml = sHtml.replace(/</g, "StrTag").replace(/>/g, "EndTag");
+        window.open("../Home/GeneratePdf?html=" + sHtml ,"_blank");
+
+
+    });
+</script>
